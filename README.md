@@ -95,11 +95,7 @@ ML_PROJECT/
 
 ## 📸 Demo (Optional)
 
-*Add your Streamlit screenshot here*
-
-```
 ![App Screenshot](screenshot.png)
-```
 
 ---
 
