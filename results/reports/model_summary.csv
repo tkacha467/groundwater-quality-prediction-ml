@@ -1,0 +1,8 @@
+Model,Accuracy(%),ROC_AUC
+XGBoost,99.63,0.9999
+Soft Voting (Final),99.59,0.9998
+Logistic Regression,99.52,0.9995
+Gradient Boosting,99.52,0.9999
+Decision Tree,98.74,0.9839
+Random Forest,98.45,0.999
+KNN,90.81,0.968
