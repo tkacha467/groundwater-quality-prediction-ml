@@ -115,6 +115,8 @@ ML_PROJECT/
 ## 👨‍💻 Author
 
 **Tushar Kacha**
+**Kishor Goraniya**
+**Vishal Amethiya**
 M.Sc. Data Science Student
 
 ---
