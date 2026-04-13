@@ -38,4 +38,6 @@ The Streamlit app is a simplified demo. Full prediction requires all input featu
 
 ## 👨‍💻 Author
 
-Tushar Kacha
+Tushar Kacha,
+Kishor Goraniya,
+Vishal Amethiya
